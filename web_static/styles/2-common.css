@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    bottom: 0;
+    position: fixed;
+    padding-left: 695px;
+    padding-bottom: 5px;
+    text-align: center;
+}
