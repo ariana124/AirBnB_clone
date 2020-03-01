@@ -1,4 +1,4 @@
-## 0x01.AirBnB clone - Web static
+# 0x01.AirBnB clone - Web Static
 
 ## Project covers HTML and CSS for AirBnb application
 
